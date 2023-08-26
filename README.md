@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My code](https://github.com/Prajwal-88/Order-Summary-Card)
+- Live Site URL: [Live site](https://prajwal-88.github.io/Order-Summary-Card/)
 
 ## My process
 
